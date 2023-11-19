@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Paasetine</item>
+        <item>Morocco</item>
+        <item>Alegria</item>
+        <item>Egypt</item>
+        <item>libia</item>
+        <item>Qatar</item>
+    </string-array>
+</resources>
